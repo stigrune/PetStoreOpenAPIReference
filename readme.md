@@ -1,4 +1,4 @@
-# Testing "Add new OpenAPI service reference #
+# Testing "Add new OpenAPI service reference" #
 
 My test project for blogpost <https://stigrune.dev/posts/adding-new-OpenAPI-service-references-to-Core-projects>
 
